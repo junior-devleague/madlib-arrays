@@ -21,22 +21,22 @@ Mars was colonized in `--number(year)--` with the joint efforts of `--noun(count
 
 #### Exercises
 
-1.  Create a variable called `nouns` and insert the following:
+1.  Create a variable called `nouns` and insert the following into an array:
 
     * 3 names
     * 2 countries
 
-2.  Create a variable called `numbers` and insert the following:
+2.  Create a variable called `numbers` and insert the following into an array:
 
     * A year between 2020 - 2100
     * 2 numbers between 10k - 50k
 
-3.  Create a variable called `adjectives` and insert the following:
+3.  Create a variable called `adjectives` and insert the following into an array:
 
     * Adjective that ends with -ly
     * 2 adjectives
 
-4.  Create a variable called `verbs` and insert the following:
+4.  Create a variable called `verbs` and insert the following into an array:
 
     * 2 verbs that ends with -ed
 
